@@ -1,0 +1,1 @@
+var json_Los_Pajaritos_2 = {"type":"FeatureCollection","name":"Los_Pajaritos_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"Point","coordinates":[-2.467905075421124,41.754611539999416]}}]}
